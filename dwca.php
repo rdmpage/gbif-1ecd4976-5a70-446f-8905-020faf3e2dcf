@@ -30,6 +30,7 @@ $dwc_fields = array(
 	
 	
 	//i
+	'id' 						=> 'http://rs.tdwg.org/dwc/terms/occurrenceID',
 	'institutionCode' 			=> 'http://rs.tdwg.org/dwc/terms/institutionCode',
 	'island'					=> 'http://rs.tdwg.org/dwc/terms/island',
 	'islandGroup'				=> 'http://rs.tdwg.org/dwc/terms/islandGroup',
@@ -103,12 +104,9 @@ $id->setAttribute('index', 	'0');
 $index = 0;
 foreach ($occurrence_header as $header)
 {
-	if ($index != 0)
-	{
-		$field = $core->appendChild($metadata->createElement('field'));
-		$field->setAttribute('index', 	$index);
-		$field->setAttribute('term', 	$dwc_fields[$header]);
-	}
+	$field = $core->appendChild($metadata->createElement('field'));
+	$field->setAttribute('index', 	$index);
+	$field->setAttribute('term', 	$dwc_fields[$header]);
 	$index++;
 }
 

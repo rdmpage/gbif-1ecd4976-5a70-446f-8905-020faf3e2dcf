@@ -35,7 +35,9 @@ Now we need to create the Darwin Core archive. I grabbed the data from Appendix 
 
 I then generated a meta.xml file, and finally the Darwin Core Archive (DwC-A) (which is simply a zip file):
 
-zip banza.zip meta.xml occurrences.txt
+```
+zip dwca.zip meta.xml occurrences.txt
+```
 
 Next we need to check that the DwC-A file is valid using the [Darwin Core Archive Validator](http://tools.gbif.org/dwca-validator/).
 
