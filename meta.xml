@@ -7,16 +7,19 @@
     <id index="0"/>
     <field index="0" term="http://rs.tdwg.org/dwc/terms/occurrenceID"/>
     <field index="1" term="http://rs.tdwg.org/dwc/terms/datasetID"/>
-    <field index="2" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
-    <field index="3" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
-    <field index="4" term="http://rs.tdwg.org/dwc/terms/basisOfRecord"/>
-    <field index="5" term="http://rs.tdwg.org/dwc/terms/island"/>
-    <field index="6" term="http://rs.tdwg.org/dwc/terms/locality"/>
-    <field index="7" term="http://rs.tdwg.org/dwc/terms/verbatimLatitude"/>
-    <field index="8" term="http://rs.tdwg.org/dwc/terms/verbatimLongitude"/>
-    <field index="9" term="http://rs.tdwg.org/dwc/terms/decimalLatitude"/>
-    <field index="10" term="http://rs.tdwg.org/dwc/terms/decimalLongitude"/>
-    <field index="11" term="http://rs.tdwg.org/dwc/terms/associatedSequences"/>
-    <field index="12" term="http://rs.tdwg.org/dwc/terms/associatedReferences"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/institutionCode"/>
+    <field index="3" term="http://rs.tdwg.org/dwc/terms/collectionCode"/>
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/catalogNumber"/>
+    <field index="5" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+    <field index="7" term="http://rs.tdwg.org/dwc/terms/basisOfRecord"/>
+    <field index="8" term="http://rs.tdwg.org/dwc/terms/island"/>
+    <field index="9" term="http://rs.tdwg.org/dwc/terms/locality"/>
+    <field index="10" term="http://rs.tdwg.org/dwc/terms/verbatimLatitude"/>
+    <field index="11" term="http://rs.tdwg.org/dwc/terms/verbatimLongitude"/>
+    <field index="12" term="http://rs.tdwg.org/dwc/terms/decimalLatitude"/>
+    <field index="13" term="http://rs.tdwg.org/dwc/terms/decimalLongitude"/>
+    <field index="14" term="http://rs.tdwg.org/dwc/terms/associatedSequences"/>
+    <field index="15" term="http://rs.tdwg.org/dwc/terms/associatedReferences"/>
   </core>
 </archive>
