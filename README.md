@@ -12,15 +12,19 @@ Create a dataset on GBIF using registry API. The **owningOrganizationKey** is th
 http://api.gbif.org/v0.9/dataset
 
 POST
-* {
-* "owningOrganizationKey":"92f51af1-e917-49bc-a8ed-014ed3a77bec",
-*  "installationKey":"**<your key here>**",
-*  "title":"Molecular phylogeny of Banza (Orthoptera: Tettigoniidae), the endemic katydids of the Hawaiian Archipelago",
-*  "type":"OCCURRENCE" 
-* }
 
+```javascript
+{
+	"owningOrganizationKey":"92f51af1-e917-49bc-a8ed-014ed3a77bec",
+	"installationKey":"**<your key here>**",
+	"title":"Molecular phylogeny of Banza (Orthoptera: Tettigoniidae), the endemic katydids of the Hawaiian Archipelago",
+	"type":"OCCURRENCE" 
+}
+```
 RESPONSE
 
-* "1ecd4976-5a70-446f-8905-020faf3e2dcf"
+```javascript
+"1ecd4976-5a70-446f-8905-020faf3e2dcf"
+```
 
 We now have a UUID (1ecd4976-5a70-446f-8905-020faf3e2dcf) for the dataset, which lives here: http://www.gbif.org/dataset/1ecd4976-5a70-446f-8905-020faf3e2dcf
