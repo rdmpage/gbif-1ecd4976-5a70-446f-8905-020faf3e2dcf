@@ -39,9 +39,7 @@ zip banza.zip meta.xml occurrences.txt
 
 Next we need to check that the DwC-A file is valid using the [Darwin Core Archive Validator](http://tools.gbif.org/dwca-validator/).
 
-Step 
-
-Step 3
+Step 3 Create 
 
 Now we need to upload the data. I created an endpoint for the data
 
