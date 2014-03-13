@@ -39,8 +39,27 @@ zip banza.zip meta.xml occurrences.txt
 
 Next we need to check that the DwC-A file is valid using the [Darwin Core Archive Validator](http://tools.gbif.org/dwca-validator/).
 
-Step 3 Create 
+## Step 3 Create endpoint
 
-Now we need to upload the data. I created an endpoint for the data
+Now we need to tell GBIF where to get the data. In this example, the Darwin Core Archive file is hosted by Github (make sure you link to the raw file).
+
+http://api.gbif.org/v0.9/dataset/1ecd4976-5a70-446f-8905-020faf3e2dcf/endpoint
+
+POST
+```javascript
+{
+  "type":"DWC_ARCHIVE",
+  "url":"https://github.com/rdmpage/gbif-1ecd4976-5a70-446f-8905-020faf3e2dcf/raw/master/dwca.zip"
+}
+```
+
+RESPONSE HTTP 201 Created
+
+```javascript
+39656
+```
+
+
+
 
 
