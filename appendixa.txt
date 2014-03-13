@@ -1,0 +1,22 @@
+Taxon	Island	Location	Latitude	Longitude	COI Accession No.	Cytochrome b Accession No.
+B. nihoa (A)	Nihoa	Miller Peak	23°03′44′′N	161°55′34′′W	DQ649491	DQ649515
+B. nihoa (B)	Nihoa	Miller Peak	23°03′44′′N	161°55′34′′W	DQ649492	DQ649516
+B. kauaiensis (A)a	Kauai	Alexander Dam	21°58′30′′N	159°27′58′′W	DQ649483	DQ649507
+B. kauaiensis (B)b	Kauai	Kokee, Pihea Trail	22°09′14′′N	159°37′30′′W	DQ649484	DQ649508
+B. unica (A)c	Oahu	Mount Tantalus	21°20′14′′N	157°49′04′′W	DQ649501	DQ649525
+B. unica (B)d	Oahu	Palikea Trail	21°24′59′′N	158°06′13′′W	DQ649502	DQ649526
+B. parvula (A)	Oahu	Puu Kaua	21°26′41′′N	158°06′05′′W	DQ649497	DQ649521
+B. parvula (B)	Oahu	Peacock Flats	21°32′57′′N	158°11′13′′W	DQ649498	DQ649522
+B. molokaiensis (A)	Molokai	Puu Kole Kole	21°06′35′′N	156°54′10′′W	DQ649487	DQ649511
+B. molokaiensis (B)	Molokai	Puu Kole Kole	21°06′35′′N	156°54′10′′W	DQ649488	DQ649512
+B. deplanata (A)	Lanai	Lanaihale	20°48′53′′N	156°52′33′′W	DQ649481	DQ649505
+B. deplanata (B)	Lanai	Lanaihale	20°48′53′′N	156°52′14′′W	DQ649482	DQ649506
+B. brunnea (A)	Maui (West)	Kaulalewelewe	20°56′14′′N	156°37′10′′W	DQ649479	DQ649503
+B. brunnea (B)	Maui (West)	Lihau	20°51′18′′N	156°36′12′′W	DQ649480	DQ649504
+B. mauiensis (A)	Maui (West)	Hanaula	20°50′42′′N	156°33′26′′W	DQ649485	DQ649509
+B. mauiensis (B)	Maui (West)	Hanaula	20°50′42′′N	156°33′26′′W	DQ649486	DQ649510
+B. “pilimauiensis” (A)	Maui (East)	Waikamoi	20°49′04′′N	156°13′49′′W	DQ649499	DQ649523
+B. “pilimauiensis” (B)	Maui (East)	Waikamoi	20°49′04′′N	156°13′49′′W	DQ649500	DQ649524
+B. nitida (A)	Hawaii	Kealakekua	19°30′32′′N	155°51′46′′W	DQ649493	DQ649517
+B. nitida (B)	Hawaii	Stainback	19°34′14′′N	155°11′19′′W	DQ649495	DQ649519
+B. nitida (C)e	Hawaii	Puu Iki	20°07′45′′N	155°46′09′′W	DQ649494	DQ649518
