@@ -63,9 +63,9 @@ HTTP 201 Created
 39656
 ```
 
-Step 4
+## Step 4
 
-
+Wait for GBIF to index the data (helps if you have Tim Robertson on Skype to keep a watchful eye on things). After a few minutes the data starts appearing in GBIF maps and searches.
 
 
 
