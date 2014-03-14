@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:md="eml://ecoinformatics.org/methods-2.1.1" xmlns:proj="eml://ecoinformatics.org/project-2.1.1" xmlns:d="eml://ecoinformatics.org/dataset-2.1.1" xmlns:res="eml://ecoinformatics.org/resource-2.1.1" xmlns:dc="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0/eml.xsd" packageId="9e8b675e-353e-4b45-911c-c0d4b6b49888" system="GBIF-SpreadsheetProcessor" scope="system" xml:lang="">
+ <dataset>
+  <alternateIdentifier/>
+  <title xml:lang="eng">Molecular phylogeny of Banza (Orthoptera: Tettigoniidae), the endemic katydids of the Hawaiian Archipelago</title>
+  <creator>
+   <individualName>
+    <givenName>Roderic D. M.</givenName>
+    <surName>Page</surName>
+   </individualName>
+   <organizationName>University of Glasgow</organizationName>
+   <address/>
+   <electronicMailAddress>Roderic.Page@glasgow.ac.uk</electronicMailAddress>
+  </creator>
+  <metadataProvider>
+   <organizationName>University of Glasgow</organizationName>
+   <individualName>
+    <givenName>Roderic D. M.</givenName>
+    <surName>Page</surName>
+   </individualName>
+   <address/>
+   <electronicMailAddress>Roderic.Page@glasgow.ac.uk</electronicMailAddress>
+  </metadataProvider>
+  <pubDate>2014-03-14</pubDate>
+  <language>eng</language>
+  <abstract>
+   <para>Localities for Hawaiian katydids, based on Appendix A of Shapiro et al. (2006) doi:10.1016/j.ympev.2006.04.006
+</para>
+  </abstract>
+  <additionalInfo>
+   <para>Data is stored in GitHub repository https://github.com/rdmpage/gbif-1ecd4976-5a70-446f-8905-020faf3e2dcf</para>
+  </additionalInfo>
+  <intellectualRights>
+   <para>cc0</para>
+  </intellectualRights>
+  <coverage>
+   <geographicCoverage>
+    <geographicDescription>Hawaii</geographicDescription>
+    <boundingCoordinates>
+     <westBoundingCoordinate></westBoundingCoordinate>
+     <eastBoundingCoordinate></eastBoundingCoordinate>
+     <northBoundingCoordinate></northBoundingCoordinate>
+     <southBoundingCoordinate></southBoundingCoordinate>
+    </boundingCoordinates>
+   </geographicCoverage>
+   <temporalCoverage>
+    <singleDateTime>
+     <calendarDate>2014-03-14</calendarDate>
+    </singleDateTime>
+   </temporalCoverage>
+   <temporalCoverage>
+    <rangeOfDates>
+     <beginDate>
+      <calendarDate>2014-03-14</calendarDate>
+     </beginDate>
+     <endDate>
+      <calendarDate>2014-03-14</calendarDate>
+     </endDate>
+    </rangeOfDates>
+   </temporalCoverage>
+  </coverage>
+  <contact>
+   <individualName>
+    <givenName>Roderic D. M.</givenName>
+    <surName>Page</surName>
+   </individualName>
+   <organizationName>University of Glasgow</organizationName>
+   <address/>
+   <electronicMailAddress>Roderic.Page@glasgow.ac.uk</electronicMailAddress>
+  </contact>
+ </dataset>
+ <additionalMetadata>
+  <metadata>
+   <gbif>
+    <dateStamp>2014-03-14T19:05:43+01:00</dateStamp>
+    <citation>Molecular phylogeny of Banza (Orthoptera: Tettigoniidae), the endemic katydids of the Hawaiian Archipelago</citation>
+    <bibliography>
+     <citation identifier="http://dx.doi.org/10.1016/j.ympev.2006.04.006">Shapiro, L. H., Strazanac, J. S., &amp; Roderick, G. K. (2006, October). Molecular phylogeny of Banza (Orthoptera: Tettigoniidae), the endemic katydids of the Hawaiian Archipelago. Molecular Phylogenetics and Evolution. Elsevier BV. doi:10.1016/j.ympev.2006.04.006</citation>
+    </bibliography>
+   </gbif>
+  </metadata>
+ </additionalMetadata>
+</eml:eml>
